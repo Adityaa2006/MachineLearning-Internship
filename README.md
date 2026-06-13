@@ -1,2 +1,3 @@
-# MachineLearning-Internship
-Machine Learning Internship Projects by Aditya Jamdade
+# Reports Folder
+
+This folder contains weekly internship reports.
